@@ -1,0 +1,15 @@
+O:\Для OvodBox\Учёба прогр\4 Знаком с язык прогр (семинары)\Урок 3. Базовые алгоритмы. Продолжение\C-dz3-1\C-dz3\task21\bin\Debug\net6.0\task21.exe
+O:\Для OvodBox\Учёба прогр\4 Знаком с язык прогр (семинары)\Урок 3. Базовые алгоритмы. Продолжение\C-dz3-1\C-dz3\task21\bin\Debug\net6.0\task21.deps.json
+O:\Для OvodBox\Учёба прогр\4 Знаком с язык прогр (семинары)\Урок 3. Базовые алгоритмы. Продолжение\C-dz3-1\C-dz3\task21\bin\Debug\net6.0\task21.runtimeconfig.json
+O:\Для OvodBox\Учёба прогр\4 Знаком с язык прогр (семинары)\Урок 3. Базовые алгоритмы. Продолжение\C-dz3-1\C-dz3\task21\bin\Debug\net6.0\task21.dll
+O:\Для OvodBox\Учёба прогр\4 Знаком с язык прогр (семинары)\Урок 3. Базовые алгоритмы. Продолжение\C-dz3-1\C-dz3\task21\bin\Debug\net6.0\task21.pdb
+O:\Для OvodBox\Учёба прогр\4 Знаком с язык прогр (семинары)\Урок 3. Базовые алгоритмы. Продолжение\C-dz3-1\C-dz3\task21\obj\Debug\net6.0\task21.csproj.AssemblyReference.cache
+O:\Для OvodBox\Учёба прогр\4 Знаком с язык прогр (семинары)\Урок 3. Базовые алгоритмы. Продолжение\C-dz3-1\C-dz3\task21\obj\Debug\net6.0\task21.GeneratedMSBuildEditorConfig.editorconfig
+O:\Для OvodBox\Учёба прогр\4 Знаком с язык прогр (семинары)\Урок 3. Базовые алгоритмы. Продолжение\C-dz3-1\C-dz3\task21\obj\Debug\net6.0\task21.AssemblyInfoInputs.cache
+O:\Для OvodBox\Учёба прогр\4 Знаком с язык прогр (семинары)\Урок 3. Базовые алгоритмы. Продолжение\C-dz3-1\C-dz3\task21\obj\Debug\net6.0\task21.AssemblyInfo.cs
+O:\Для OvodBox\Учёба прогр\4 Знаком с язык прогр (семинары)\Урок 3. Базовые алгоритмы. Продолжение\C-dz3-1\C-dz3\task21\obj\Debug\net6.0\task21.csproj.CoreCompileInputs.cache
+O:\Для OvodBox\Учёба прогр\4 Знаком с язык прогр (семинары)\Урок 3. Базовые алгоритмы. Продолжение\C-dz3-1\C-dz3\task21\obj\Debug\net6.0\task21.dll
+O:\Для OvodBox\Учёба прогр\4 Знаком с язык прогр (семинары)\Урок 3. Базовые алгоритмы. Продолжение\C-dz3-1\C-dz3\task21\obj\Debug\net6.0\refint\task21.dll
+O:\Для OvodBox\Учёба прогр\4 Знаком с язык прогр (семинары)\Урок 3. Базовые алгоритмы. Продолжение\C-dz3-1\C-dz3\task21\obj\Debug\net6.0\task21.pdb
+O:\Для OvodBox\Учёба прогр\4 Знаком с язык прогр (семинары)\Урок 3. Базовые алгоритмы. Продолжение\C-dz3-1\C-dz3\task21\obj\Debug\net6.0\task21.genruntimeconfig.cache
+O:\Для OvodBox\Учёба прогр\4 Знаком с язык прогр (семинары)\Урок 3. Базовые алгоритмы. Продолжение\C-dz3-1\C-dz3\task21\obj\Debug\net6.0\ref\task21.dll
