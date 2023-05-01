@@ -1,0 +1,15 @@
+Z:\Для OvodBox\Учёба прогр\4 Знаком с язык прогр (семинары)\Урок 3. Базовые алгоритмы. Продолжение\C-dz3-1-nout\C-dz3\task19\bin\Debug\net6.0\task19.exe
+Z:\Для OvodBox\Учёба прогр\4 Знаком с язык прогр (семинары)\Урок 3. Базовые алгоритмы. Продолжение\C-dz3-1-nout\C-dz3\task19\bin\Debug\net6.0\task19.deps.json
+Z:\Для OvodBox\Учёба прогр\4 Знаком с язык прогр (семинары)\Урок 3. Базовые алгоритмы. Продолжение\C-dz3-1-nout\C-dz3\task19\bin\Debug\net6.0\task19.runtimeconfig.json
+Z:\Для OvodBox\Учёба прогр\4 Знаком с язык прогр (семинары)\Урок 3. Базовые алгоритмы. Продолжение\C-dz3-1-nout\C-dz3\task19\bin\Debug\net6.0\task19.dll
+Z:\Для OvodBox\Учёба прогр\4 Знаком с язык прогр (семинары)\Урок 3. Базовые алгоритмы. Продолжение\C-dz3-1-nout\C-dz3\task19\bin\Debug\net6.0\task19.pdb
+Z:\Для OvodBox\Учёба прогр\4 Знаком с язык прогр (семинары)\Урок 3. Базовые алгоритмы. Продолжение\C-dz3-1-nout\C-dz3\task19\obj\Debug\net6.0\task19.csproj.AssemblyReference.cache
+Z:\Для OvodBox\Учёба прогр\4 Знаком с язык прогр (семинары)\Урок 3. Базовые алгоритмы. Продолжение\C-dz3-1-nout\C-dz3\task19\obj\Debug\net6.0\task19.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Для OvodBox\Учёба прогр\4 Знаком с язык прогр (семинары)\Урок 3. Базовые алгоритмы. Продолжение\C-dz3-1-nout\C-dz3\task19\obj\Debug\net6.0\task19.AssemblyInfoInputs.cache
+Z:\Для OvodBox\Учёба прогр\4 Знаком с язык прогр (семинары)\Урок 3. Базовые алгоритмы. Продолжение\C-dz3-1-nout\C-dz3\task19\obj\Debug\net6.0\task19.AssemblyInfo.cs
+Z:\Для OvodBox\Учёба прогр\4 Знаком с язык прогр (семинары)\Урок 3. Базовые алгоритмы. Продолжение\C-dz3-1-nout\C-dz3\task19\obj\Debug\net6.0\task19.csproj.CoreCompileInputs.cache
+Z:\Для OvodBox\Учёба прогр\4 Знаком с язык прогр (семинары)\Урок 3. Базовые алгоритмы. Продолжение\C-dz3-1-nout\C-dz3\task19\obj\Debug\net6.0\task19.dll
+Z:\Для OvodBox\Учёба прогр\4 Знаком с язык прогр (семинары)\Урок 3. Базовые алгоритмы. Продолжение\C-dz3-1-nout\C-dz3\task19\obj\Debug\net6.0\refint\task19.dll
+Z:\Для OvodBox\Учёба прогр\4 Знаком с язык прогр (семинары)\Урок 3. Базовые алгоритмы. Продолжение\C-dz3-1-nout\C-dz3\task19\obj\Debug\net6.0\task19.pdb
+Z:\Для OvodBox\Учёба прогр\4 Знаком с язык прогр (семинары)\Урок 3. Базовые алгоритмы. Продолжение\C-dz3-1-nout\C-dz3\task19\obj\Debug\net6.0\task19.genruntimeconfig.cache
+Z:\Для OvodBox\Учёба прогр\4 Знаком с язык прогр (семинары)\Урок 3. Базовые алгоритмы. Продолжение\C-dz3-1-nout\C-dz3\task19\obj\Debug\net6.0\ref\task19.dll
