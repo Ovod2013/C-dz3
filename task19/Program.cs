@@ -1,19 +1,26 @@
-﻿/*Задача 23
-Напишите программу, которая принимает на вход число (N) и выдаёт таблицу кубов чисел от 1 до N.
-3 -> 1, 8, 27
-5 -> 1, 8, 27, 64, 125    */
+﻿/*Задача 19
+Напишите программу, которая принимает на вход пятизначное число и проверяет, является ли оно палиндромом.
+14212 -> нет
+12821 -> да
+23432 -> да*/
 
-Console.Write("Введите число: ");
+Console.Write("Введите пятизначное десятичное число: ");
 int x=int.Parse(Console.ReadLine()!);
 
-double Cub(int vx)// определение метода вычисления куба
-{
-double cub = vx*vx*vx;
- return cub;
-}
+if (x<10000 || x>99999) Console.Write("Это не пятизначное число!");
+else{
+int c5=x%10; 
+//Console.WriteLine (c5);
+int c4=(x/10)%10; 
+//Console.WriteLine (c4);
+int c3=(x/100)%10; 
+//Console.WriteLine (c3);
+int c2=(x/1000)%10; 
+//Console.WriteLine (c2);
+int c1=(x/10000)%10; 
+//Console.WriteLine (c1);
 
-int i;// цикл вычисления и вывода куба
-for(i=1; i <= x; i++)
-{
-Console.Write (" " + Cub(i));
+
+if (c5==c1 && c4==c2) Console.WriteLine ("Да, это палиндром");
+else Console.WriteLine ("Нет, это не палиндром");
 }
